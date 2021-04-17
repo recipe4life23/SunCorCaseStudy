@@ -1,0 +1,2 @@
+# SunCorCaseStudy
+readme homework
